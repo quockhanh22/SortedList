@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\Admin\Source\Repos\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+C:\Users\Admin\Source\Repos\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache
